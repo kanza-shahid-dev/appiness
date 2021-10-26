@@ -1,0 +1,6 @@
+{"web":
+  {"client_id":"86380306776-rnq2b8mragh9mejqvijbj51jtva37osi.apps.googleusercontent.com",
+  "project_id":"appiness-app","auth_uri":"https://accounts.google.com/o/oauth2/auth",
+"token_uri":"https://oauth2.googleapis.com/token",
+ "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+"client_secret":"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"}}
